@@ -1,0 +1,11 @@
+asgiref==3.2.10
+Django==3.0.8
+fpdf==1.7.2
+numpy==1.19.1
+pdf2image==1.14.0
+Pillow==7.2.0
+PyPDF2==1.26.0
+pytesseract==0.3.5
+pytz==2020.1
+reportlab==3.5.49
+sqlparse==0.3.1
